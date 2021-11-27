@@ -19,7 +19,7 @@ Executions Steps:
 - python3 code.py https://github.com/go-training/helloworld .go go /Users/sneha/ /Users/sneha/
 - python3 code.py https://github.com/hcvazquez/python-string-manipulation .py python /Users/sneha/ /Users/sneha/
 
-template : python3 code.py <github-link> <extension> <language> <path1> <path2>
+template : python3 code.py github-link extension language path1 path2
 
 - code gets cloned to the folder gitRepo
 - output files will be stored in the current directory if invalid directory is provided
